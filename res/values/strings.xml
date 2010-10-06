@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">RaumZeitStatus</string>
+    <string name="widget_name">RaumZeitStatus</string>
+    <string name="widget_loading">Lade Status...</string>
+    <string name="widget_error">Fehler!</string>
+    
+</resources>
